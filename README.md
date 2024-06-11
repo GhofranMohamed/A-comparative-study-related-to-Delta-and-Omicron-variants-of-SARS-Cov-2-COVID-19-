@@ -62,3 +62,18 @@ The amount of similarity of each nucleotide between Omicron sequences and case s
 the table below: 
 ![12](https://github.com/GhofranMohamed/A-comparative-study-related-to-Delta-and-Omicron-variants-of-SARS-Cov-2-COVID-19-/assets/93389441/347d4a5b-1506-467d-a971-560702962261)
 
+## Results Concluded 
+• The similarity between Omicron's sequences is very close also the similarity 
+between Delta's sequences is very close  as we can see that in the 
+phylogenetic tree 
+ 
+• There is a great similarity between the delta virus and the Omicron mutant, 
+as the similarity rate is approximately 93%. 
+ 
+• CG represent the stability of DNA, was low in the corona sequences that led 
+to many variants of virus 
+ 
+• The similarity between the consensus sequence and the individual Omicron 
+is very close so we can say that Delta and Omicron are from the same 
+family
+
