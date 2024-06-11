@@ -1,1 +1,2 @@
-# A-comparative-study-related-to-Delta-and-Omicron-variants-of-SARS-Cov-2-COVID-19-
+# About the data 
+[GISAID](https://gisaid.org/)
