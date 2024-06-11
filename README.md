@@ -17,8 +17,11 @@ address. Then, wait sometime until your registration gets approved.
 ## Multiple SEquence Alignment 
 •	considering that hCoV-19 Delta variant sequences are the reference sequences. To Construct a consensus sequence from the reference sequences, we used the Seaview software. The way of doing that is to get at each sequence location, the nucleotide/amino acid of the consensus sequence will be the most dominant one across all the sequences at that location.
 ![2](https://github.com/GhofranMohamed/A-comparative-study-related-to-Delta-and-Omicron-variants-of-SARS-Cov-2-COVID-19-/assets/93389441/552cd88b-9a7a-42d9-a267-cb53782b65da)
+
 So, the reference sequence is specified in a certain file
+
 ![3](https://github.com/GhofranMohamed/A-comparative-study-related-to-Delta-and-Omicron-variants-of-SARS-Cov-2-COVID-19-/assets/93389441/122eccf2-53b6-4f80-855f-7ef873603852)
+
 •	Then, we applied a multiple sequence alignment on hCoV-19 Omicron variant sequences (the case sequences).
 We used the [Clustal Omega](https://www.ebi.ac.uk/jdispatcher/) technique to apply the multiple sequence alignment:
 -	Clustal Omega is a new multiple sequence alignment program that uses seeded guide trees and HMM profile-profile techniques to generate alignments between three or more sequences.
@@ -35,4 +38,27 @@ This table shows the correlation between each node and the other and the length 
 ![7](https://github.com/GhofranMohamed/A-comparative-study-related-to-Delta-and-Omicron-variants-of-SARS-Cov-2-COVID-19-/assets/93389441/0c9f3965-6cd1-4438-b16c-bb2aba9d1e09)
 
 ![8](https://github.com/GhofranMohamed/A-comparative-study-related-to-Delta-and-Omicron-variants-of-SARS-Cov-2-COVID-19-/assets/93389441/d6f99507-3639-4505-9e09-948a713e5543)
+
+## Extracting the dissimilar regions/columns
+- The overall similarity regions between the alignment of the case 
+sequences and the consensus sequence are: 27612 regions 
+ - The overall dissimilarity regions between the alignment of the case 
+sequences and the consensus sequence are:  2139 regions
+
+The amount of similarity between each Omicron variant and case sequence variant is shown in the table 
+below:
+![9](https://github.com/GhofranMohamed/A-comparative-study-related-to-Delta-and-Omicron-variants-of-SARS-Cov-2-COVID-19-/assets/93389441/ec702ccb-19c4-405a-aa60-c92d264fd7ef)
+
+The amount of dissimilarity between each Omicron variant and case sequence variant is shown in the 
+table below:
+
+![10](https://github.com/GhofranMohamed/A-comparative-study-related-to-Delta-and-Omicron-variants-of-SARS-Cov-2-COVID-19-/assets/93389441/0a8abe82-7e31-4678-aabe-33ef5264c8ba)
+
+The amount of similarity of each nucleotide between Omicron sequences and case sequence is shown in 
+the table below:
+![11](https://github.com/GhofranMohamed/A-comparative-study-related-to-Delta-and-Omicron-variants-of-SARS-Cov-2-COVID-19-/assets/93389441/462519db-76a8-4ee1-bc56-725d4e092918)
+
+The amount of similarity of each nucleotide between Omicron sequences and case sequence is shown in 
+the table below: 
+![12](https://github.com/GhofranMohamed/A-comparative-study-related-to-Delta-and-Omicron-variants-of-SARS-Cov-2-COVID-19-/assets/93389441/347d4a5b-1506-467d-a971-560702962261)
 
